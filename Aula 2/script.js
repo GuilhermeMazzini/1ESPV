@@ -87,4 +87,35 @@
 //     numero++;
 //     } while (numero <= 5);
 
-let nivelAcesso
+
+
+// let nivelAcesso = 3 
+
+// if (nivelAcesso === 2){
+//     console.log("Acesso Parcial");
+//     } else if (nivelAcesso === 3){
+//         console.log("Acesso Total");
+//     } else {
+//         console.log("Acesso Negado");
+//     }
+
+//     let nota = 8;
+//     switch (nota){
+//         case 10:
+//             console.log("Nota Máxima");
+//             break
+//         case 9:
+//         case 8:
+//             console.log("Muito Bom");
+//             break
+//         case 7:
+//         case 6:
+//             console.log("Bom");
+//             break
+//         case 5:
+//             console.log("Regular");
+//             break
+//         default:
+//             console.log("Nota Insuficiente");
+//             break
+//     }
